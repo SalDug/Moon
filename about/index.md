@@ -9,7 +9,7 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Introduction
-* Name: Hyeongmin Ham(咸炯珉, 함형민)
+* Name: Hyeongmin Ham(함형민, 咸炯珉)
 * Birth Date: 2004/01/16
 * 
 
@@ -22,7 +22,7 @@ comments: false
 * Osung High School 2019 ~ 2021
 * SKKU Software 2022 ~
 
-## Achievements  and  Certifications
+## Achievements and Certifications
 * Craftsman Information Processing(정보처리기능사)
 
 ## Contact
