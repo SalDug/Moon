@@ -1,6 +1,6 @@
 # Site
 title:              Hyeongmin Ham
-bio:                '성균관대학교 소프트웨어학과'
+bio:                'SKKU Software'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -38,19 +38,17 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+github-url:         SalDug
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          hm_ham116
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              SalDug
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
